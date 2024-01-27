@@ -88,7 +88,7 @@ header{
     background-color: rgb(188, 196, 203);
 }
 .q_order{
-    margin-left: 56rem;
+    right: 1em;
     top: 139px;
     border: 2px solid black;
     background-color: #e4e4e4;
